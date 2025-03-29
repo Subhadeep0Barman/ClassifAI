@@ -1,2 +1,2 @@
 # ClassifAI
-image_classification Web App
+image_classifier 
